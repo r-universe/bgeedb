@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BgeeCall"]
+	path = BgeeCall
+	url = https://github.com/bgeedb/bgeecall
+	shallow = true
+	registered = true
 [submodule "BgeeDB"]
 	path = BgeeDB
 	url = https://github.com/bgeedb/bgeedb_r
